@@ -7,7 +7,7 @@ Front-End Developer
 A result-oriented professional targeting challenging assignments and responsibility as a Front-End Developer, Full-Stack Developer & Back-End Developer with an opportunity for growth and career advancement as successful achievements
 
 * 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [My Portfolio](http://preetikrush.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://www.upcoming.com/)
 * ✉️  You can contact me at [preetikrushna35@gmail.com](mailto:preetikrushna35@gmail.com)
 * 🧠  I'm learning Advance React JS Application
 
